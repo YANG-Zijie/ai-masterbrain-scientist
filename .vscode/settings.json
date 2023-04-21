@@ -1,0 +1,4 @@
+{
+    // remove 80 char limit
+    "editor.rulers": [],
+}

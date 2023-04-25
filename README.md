@@ -21,13 +21,12 @@ The `figure` folder contains the figures used in the paper.
 ## Cite this work
 
 ```bibtex
-@article {YANG2023.04.19.537579,
-    author = {Zijie YANG and Yukai WANG and Lijing ZHANG},
-    title = {AI becomes a masterbrain scientist},
-    year = {2023},
-    doi = {10.1101/2023.04.19.537579},
-    publisher = {Cold Spring Harbor Laboratory},
-    URL = {https://www.biorxiv.org/content/early/2023/04/21/2023.04.19.537579},
-    journal = {bioRxiv}
+@article{yang2023ai,
+  title={AI becomes a masterbrain scientist},
+  author={YANG, Zijie and WANG, Yukai and ZHANG, Lijing},
+  journal={bioRxiv},
+  pages={2023--04},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```

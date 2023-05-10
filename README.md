@@ -1,5 +1,7 @@
 # AI becomes a masterbrain scientist
 
+![AI becomes a masterbrain scientist](img/ai-masterbrain-scientist.png)
+
 ## Paper link
 
 [Paper link](https://www.biorxiv.org/content/early/2023/04/21/2023.04.19.537579)

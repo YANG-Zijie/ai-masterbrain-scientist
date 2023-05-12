@@ -10,6 +10,10 @@
 
 Recent rapid and unexpected advancements in Artificial Intelligence (AI) have dramatically shocked the world. Large language models, such as ChatGPT and GPT-4, have demonstrated remarkable potential in aggregating and organizing knowledge while providing insights and solutions to specific questions. In this study, we further explore the possibility of GPT-4 taking on a central role in a complete closed-loop biological research, functioning as a masterbrain scientist responsible for generating hypotheses, designing experiments, analyzing results, and drawing conclusions. Our findings suggest that AI has the potential to evolve into a genuine scientist, and could lead an unprecedented revolution in the area of science.
 
+## Paper Interpretation
+
+[知乎中文解读](https://zhuanlan.zhihu.com/p/624744690)
+
 ## Code and data for the paper
 
 The original code and data can be found in the `code` and `data-gel` folder.

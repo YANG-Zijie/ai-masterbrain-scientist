@@ -20,6 +20,12 @@ The original code and data can be found in the `code` and `data-gel` folder.
 
 The `figure` folder contains the figures used in the paper.
 
+## PPT and PDF
+
+The `ppt-pdf` folder contains the PPT and PDF for interpreting the paper.
+
+(Currently, only the Chinese version is available, the English version will be added later.)
+
 ## The Five Stages of AI-involved Scientific Revolution
 
 ![The Five Stages of AI-involved Scientific Revolution](figure/fig/five-stages.png)

@@ -13,6 +13,7 @@ Recent rapid and unexpected advancements in Artificial Intelligence (AI) have dr
 ## Paper Interpretation
 
 [知乎中文解读](https://zhuanlan.zhihu.com/p/624744690)
+[Medium English interpretation](https://medium.com/@yangzijie/ai-becomes-a-masterbrain-scientist-the-ai-led-scientific-revolution-has-come-will-scientists-9483acd8785f)
 
 ## Media Reports
 

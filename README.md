@@ -14,6 +14,12 @@ Recent rapid and unexpected advancements in Artificial Intelligence (AI) have dr
 
 [知乎中文解读](https://zhuanlan.zhihu.com/p/624744690)
 
+## Media Reports
+
+- [新智元报道](https://mp.weixin.qq.com/s/3p9kfs_ZP2HdN6aGipB1KA)
+- [Report from The China Academy](https://chinaacademy.substack.com/p/ai-as-a-mastermind-scientist-could)
+- [络绎科学](https://mp.weixin.qq.com/s/ClbIEB0lM9uHCGNziJU0Lg)
+
 ## Code and data for the paper
 
 The original code and data can be found in the `code` and `data-gel` folder.

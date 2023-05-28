@@ -6,9 +6,9 @@
 
 [Paper link](https://www.biorxiv.org/content/early/2023/04/21/2023.04.19.537579)
 
-## Abstract
+## Introduction
 
-Recent rapid and unexpected advancements in Artificial Intelligence (AI) have dramatically shocked the world. Large language models, such as ChatGPT and GPT-4, have demonstrated remarkable potential in aggregating and organizing knowledge while providing insights and solutions to specific questions. In this study, we further explore the possibility of GPT-4 taking on a central role in a complete closed-loop biological research, functioning as a masterbrain scientist responsible for generating hypotheses, designing experiments, analyzing results, and drawing conclusions. Our findings suggest that AI has the potential to evolve into a genuine scientist, and could lead an unprecedented revolution in the area of science.
+The recent rapid development of artificial intelligence (AI) has shocked the world, especially large language models such as ChatGPT and GPT-4. These models show amazing potential for integrating knowledge and solving problems. In this study, we explore for the first time the possibility of AI playing the role of “masterbrain scientist” (similar to principal investigator or principal scientist) in natural science research. Our tests show that the AI masterbrain played by GPT-4 has the ability to occupy a central position in a complete biological closed-loop scientific research, responsible for proposing scientific hypotheses, designing experiments, analyzing results and drawing conclusions; Humans, as assistants, are in a subordinate position, only responsible for performing experiments designed by the AI master brain and feeding back the results to the AI masterbrain. The study shows that an AI-led scientific revolution may be coming. In the future, we are expected to look forward to entering the “AI-driven science era”.
 
 ## Paper Interpretation
 
@@ -36,6 +36,21 @@ The `ppt-pdf` folder contains the PPT and PDF for interpreting the paper.
 ## The Five Stages of AI-involved Scientific Revolution
 
 ![The Five Stages of AI-involved Scientific Revolution](figure/fig/five-stages.png)
+
+## AI Masterbrain Scientist Play a Central Role
+
+| Abstract role in scientific research | Key scientific research | Finisher |
+| - | - | - |
+| First Mover of Science | 1. Limit the direction of scientific research | HI |
+| **Masterbrain** | 2. Propose scientific hypotheses, based on the available **real experimental conditions** | **AI** |
+| **Masterbrain** | 3. Design and guide experiments based on scientific hypotheses | **AI** |
+| Assistant | 4. Complete experiments designed by AI Masterbrain in the real world and obtain **real experimental results** | HI |
+| Assistant | 5. Feed the experimental results back to the AI Masterbrain | HI |
+| **Masterbrain** | 6. Propose analysis methods for experimental results | **AI** |
+| **Masterbrain** | 7. Statistically analyze the experimental results | **AI** |
+| **Masterbrain** | 8. Display the experimental results as charts | **AI** |
+| **Masterbrain** | 9. Establish mathematical models based on the experimental results | **AI** |
+| **Masterbrain** | 10. Summarize scientific research and obtain **real scientific research conclusions** | **AI** |
 
 ## Cite this work
 

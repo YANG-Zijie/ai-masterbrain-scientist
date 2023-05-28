@@ -37,7 +37,7 @@ The `ppt-pdf` folder contains the PPT and PDF for interpreting the paper.
 
 ![The Five Stages of AI-involved Scientific Revolution](figure/fig/five-stages.png)
 
-## AI Masterbrain Scientist Play a Central Role
+## AI Masterbrain Scientist Playing a Central Role
 
 | Abstract role in scientific research | Key scientific research | Finisher |
 | - | - | - |

@@ -1,3 +1,5 @@
+
+
 # AI becomes a masterbrain scientist
 
 ![AI becomes a masterbrain scientist](img/ai-masterbrain-scientist.png)
@@ -8,7 +10,7 @@
 
 ## Introduction
 
-The recent rapid development of artificial intelligence (AI) has shocked the world, especially large language models such as ChatGPT and GPT-4. These models show amazing potential for integrating knowledge and solving problems. In this study, we explore for the first time the possibility of AI playing the role of “masterbrain scientist” (similar to principal investigator or principal scientist) in natural science research. Our tests show that the AI masterbrain played by GPT-4 has the ability to occupy a central position in a complete biological closed-loop scientific research, responsible for proposing scientific hypotheses, designing experiments, analyzing results and drawing conclusions; Humans, as assistants, are in a subordinate position, only responsible for performing experiments designed by the AI master brain and feeding back the results to the AI masterbrain. The study shows that an AI-led scientific revolution may be coming. In the future, we are expected to look forward to entering the “AI-driven science era”.
+The recent rapid development of artificial intelligence (AI) has shocked the world, especially large language models such as ChatGPT and GPT-4. These models show amazing potential for integrating knowledge and solving problems. In this study, we explore for the first time the possibility of AI playing the role of “masterbrain scientist” (similar to principal investigator or principal scientist) in natural science research. Our tests show that the AI masterbrain played by GPT-4 has the ability to occupy a central position in a complete biological closed-loop scientific research, responsible for proposing scientific hypotheses, designing experiments, analyzing results and drawing conclusions; Humans, as assistants, are in a subordinate position, only responsible for performing experiments designed by the AI masterbrain and feeding back the results to the AI masterbrain. The study shows that an AI-led scientific revolution may be coming. In the future, we are expected to look forward to entering the “AI-driven science era”.
 
 ## Paper Interpretation
 
